@@ -1,5 +1,5 @@
 # The Missing Hour
-### Act One
+
 
 A noir mystery visual novel built with Python and Pygame.
 
@@ -63,11 +63,10 @@ Place the following image files in the same directory as `main.py`:
 
 - **Click** — advance dialogue / interact
 - **ESC** — exit prompt
-- **SKIP >>** — skip to case file
 
 ---
 
 ## Notes
 
-This repository contains **Act One only**.  
-Act Two (The Investigation) is in active development.
+This repository contains **Act One and Two**.  
+Act Three (The Interrogation) is in active development.
